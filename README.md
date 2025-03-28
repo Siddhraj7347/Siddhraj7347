@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/siddhraj7347?theme=dark&font=Karma&ext=activity" alt="LeetCode Daily Streak">
+  <img src="[https://leetcard.jacoblin.cool/siddhraj7347?theme=dark&font=Karma&ext=activity" alt="LeetCode Daily Streak](https://leetcard.jacoblin.cool/Siddhraj7347?theme=dark&font=Life%20Savers&ext=heatmap)">
 </p>
 
 
