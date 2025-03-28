@@ -10,11 +10,15 @@
 - 💬 Ask me about **SQL, Database**
 - 📫 How to reach me **[Linktree](https://linktr.ee/Siddhraj_7347)**
 
-<h3 align="left">LeetCode Streak:</h3>
+<h3 align="left">🔥 LeetCode Streak:</h3>
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/siddhraj7347?theme=dark&font=Karma&ext=contest" alt="LeetCode Streak">
 </p>
 
+<h3 align="left">⚡ GitHub Streak:</h3>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj7347&theme=dark" alt="GitHub Streak">
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddhrajgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhrajgupta" height="30" width="40" /></a>
