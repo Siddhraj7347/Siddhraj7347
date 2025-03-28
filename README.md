@@ -23,14 +23,7 @@
 
 ---
 
-## 📊 GitHub Stats & LeetCode Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhraj7347&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhraj7347&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+## 📊 LeetCode Streak
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Siddhraj7347?theme=dark&font=Life%20Savers&ext=heatmap" alt="LeetCode Heatmap">
