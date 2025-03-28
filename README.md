@@ -33,8 +33,9 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/siddhraj7347?theme=dark&font=Karma&ext=contest" alt="LeetCode Streak">
+  <img src="https://leetcard.jacoblin.cool/siddhraj7347?theme=dark&font=Karma&ext=activity" alt="LeetCode Daily Streak">
 </p>
+
 
 ---
 
