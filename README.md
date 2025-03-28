@@ -44,7 +44,7 @@
 </p>
 
 ### 📊 Data Analytics & Databases
-<p align="center"> 
+<p align="left"> 
   <img src="https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -53,7 +53,7 @@
 </p>
 
 ### 📈 Data Visualization
-<p align="center"> 
+<p align="left"> 
   <img src="https://img.shields.io/badge/-Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tableau-blueviolet?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/-Matplotlib-ff69b4?style=for-the-badge&logo=matplotlib&logoColor=white" />
@@ -61,14 +61,14 @@
 </p>
 
 ### ☁️ Cloud & Big Data
-<p align="center"> 
+<p align="left"> 
   <img src="https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Cloud-blue?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Apache%20Airflow-darkblue?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
 ### ⚙️ DevOps & Tools
-<p align="center"> 
+<p align="left"> 
   <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
