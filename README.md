@@ -33,10 +33,6 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Siddhraj7347?theme=dark&font=Life%20Savers&ext=activity" alt="LeetCode Daily Streak">
-</p>
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/Siddhraj7347?theme=dark&font=Life%20Savers&ext=heatmap" alt="LeetCode Heatmap">
 </p>
 
