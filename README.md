@@ -29,17 +29,49 @@
   <img src="https://leetcard.jacoblin.cool/Siddhraj7347?theme=dark&font=Life%20Savers&ext=heatmap" alt="LeetCode Heatmap">
 </p>
 
-
 ---
 
 ## 🛠️ Tech Stack
+
+### 🧠 AI/ML & Data Science
 <p align="center"> 
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R-red?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-green?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-Deep%20Learning-purple?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Computer%20Vision-9cf?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Natural%20Language%20Processing-lightgrey?style=for-the-badge&logo=spacy&logoColor=white" />
+</p>
+
+### 📊 Data Analytics & Databases
+<p align="center"> 
   <img src="https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Data%20Visualization-blueviolet?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cloud%20Computing-darkblue?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache%20Spark-orange?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hadoop-darkgreen?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+</p>
+
+### 📈 Data Visualization
+<p align="center"> 
+  <img src="https://img.shields.io/badge/-Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tableau-blueviolet?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-ff69b4?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Seaborn-9cf?style=for-the-badge&logo=seaborn&logoColor=black" />
+</p>
+
+### ☁️ Cloud & Big Data
+<p align="center"> 
+  <img src="https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud-blue?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache%20Airflow-darkblue?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p align="center"> 
+  <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
