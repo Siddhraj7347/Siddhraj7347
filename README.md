@@ -6,6 +6,7 @@
 </p>
 <p align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF">
+</p><p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=siddhraj7347&theme=gruvbox&no-bg=true" alt="GitHub Trophy" />
   </a>
