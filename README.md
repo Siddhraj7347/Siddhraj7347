@@ -1,16 +1,19 @@
 <h1 align="center">Hi 👋, I'm Siddhraj Gupta</h1>
-<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | Big Data Explorerimg src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF"/h3>
+<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | Big Data Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddhraj7347&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
-<p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=siddhraj7347&theme=gruvbox&no-bg=true" alt="GitHub Trophy" />
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder GIF">
+</p>
 
 ---
 
