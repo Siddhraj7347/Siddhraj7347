@@ -34,7 +34,7 @@
 ## 🛠️ Tech Stack
 
 ### 🧠 AI/ML & Data Science
-<p align="center"> 
+<p align="left"> 
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-R-red?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-green?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -77,7 +77,7 @@
 ---
 
 ## 🔗 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/siddhrajgupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://kaggle.com/siddh7347" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://www.leetcode.com/siddhraj7347" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
