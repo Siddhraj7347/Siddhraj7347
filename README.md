@@ -1,48 +1,96 @@
 <h1 align="center">Hi 👋, I'm Siddhraj Gupta</h1>
 <h3 align="center">Aspiring Data Scientist from India | Learning AI, ML & Big Data</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhraj7347&label=Profile%20views&color=0e75b6&style=flat" alt="siddhraj7347" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddhraj7347&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhraj7347" alt="siddhraj7347" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=siddhraj7347&theme=onedark" alt="GitHub Trophy" />
+  </a>
+</p>
 
+## 🔥 About Me
 - 🔭 I’m currently working on **Stock Market Prediction**
-- 🌱 I’m currently learning **Data Science, Python**
-- 💬 Ask me about **SQL, Database**
-- 📫 How to reach me **[Linktree](https://linktr.ee/Siddhraj_7347)**
+- 🌱 I’m currently learning **Data Science, Python, AI & ML**
+- 💬 Ask me about **SQL, Database, AI, Cloud Computing**
+- 📫 How to reach me: **[Linktree](https://linktr.ee/Siddhraj_7347)**  
+- ⚡ Fun fact: **I love solving AI challenges & coding competitions!**  
 
-<h3 align="left">🔥 LeetCode Streak:</h3>
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/siddhraj7347?theme=dark&font=Karma&ext=contest" alt="LeetCode Streak">
+---
+
+## 🚀 Coding Streaks & Stats
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://leetcard.jacoblin.cool/siddhraj7347?theme=dark&font=Karma&ext=contest" alt="LeetCode Streak">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj7347&theme=tokyonight" alt="GitHub Streak">
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhraj7347&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
-<h3 align="left">⚡ GitHub Streak:</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj7347&theme=dark" alt="GitHub Streak">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhraj7347&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/siddhrajgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhrajgupta" height="30" width="40" /></a>
-<a href="https://kaggle.com/siddh7347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="siddh7347" height="30" width="40" /></a>
-<a href="https://instagram.com/siddhraj__7347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhraj__7347" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mega_epic_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mega_epic_19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/22bcs15225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22bcs15225" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/siddhraj7347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhraj7347" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/guptasidde1af" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="guptasidde1af" height="30" width="40" /></a>
+---
+
+## 🎯 Badges & Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-green?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloud%20Computing-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Data%20Visualization-purple?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+---
+
+## 🌎 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/siddhrajgupta"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://kaggle.com/siddh7347"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
+  <a href="https://instagram.com/siddhraj__7347"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://www.codechef.com/users/mega_epic_19"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" /></a>
+  <a href="https://www.hackerrank.com/22bcs15225"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /></a>
+  <a href="https://www.leetcode.com/siddhraj7347"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/guptasidde1af"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhraj7347&show_icons=true&locale=en&layout=compact" alt="siddhraj7347" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhraj7347&show_icons=true&locale=en" alt="siddhraj7347" /></p>
+## 🛠️ Languages and Tools:
+<p align="center"> 
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> 
+  <a href="https://www.cplusplus.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a> 
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a> 
+  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a> 
+  <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a> 
+</p>
+
+---
+
+## 🤖 AI-Generated Quote of the Day:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
+</p>
+
+---
+
+### 🚀 Keep Coding & Keep Learning! 🚀
