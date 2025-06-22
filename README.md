@@ -18,33 +18,40 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 My Toolbox & Skills
 
-### 🔍 Core Skills
-![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+<p align="center">
 
-### 🧠 Machine Learning & Big Data
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-F27A1A?style=for-the-badge&logo=apachespark)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+<!-- AI/ML & DS -->
+  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/r-project.png" title="R Language"/>
+  <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow"/>
+  <img src="https://img.icons8.com/color/48/pytorch.png" title="PyTorch"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-ml-machine-learning-soft-fill-soft-fill-juicy-fish.png" title="Machine Learning"/>
+  <img src="https://img.icons8.com/color/48/opencv.png" title="OpenCV"/>
 
-### 📈 Visualization
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau)
-![Seaborn](https://img.shields.io/badge/-Seaborn-06909A?style=for-the-badge)
+<!-- Data / Viz -->
+  <img src="https://img.icons8.com/ios-filled/50/pandas.png" title="Pandas"/>
+  <img src="https://img.icons8.com/fluency/48/numpy.png" title="NumPy"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau"/>
+  <img src="https://img.icons8.com/color/48/matplotlib.png" title="Matplotlib"/>
+  <img src="https://img.icons8.com/ios/50/seaborn.png" title="Seaborn"/>
 
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+<!-- Big Data -->
+  <img src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" title="Hadoop"/>
+  <img src="https://img.icons8.com/color/48/apache-spark.png" title="Apache Spark"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
+
+<!-- Cloud / DevOps -->
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS"/>
+  <img src="https://img.icons8.com/color/48/google-cloud.png" title="GCP"/>
+  <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
+
+</p>
+
 
 ---
 
