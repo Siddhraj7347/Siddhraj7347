@@ -18,39 +18,39 @@
 
 ---
 
-## 🧠 My Toolbox & Skills
+## 🧠 My Tech Arsenal
 
 <p align="center">
 
-<!-- AI/ML & DS -->
-  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/r-project.png" title="R Language"/>
-  <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow"/>
-  <img src="https://img.icons8.com/color/48/pytorch.png" title="PyTorch"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-ml-machine-learning-soft-fill-soft-fill-juicy-fish.png" title="Machine Learning"/>
-  <img src="https://img.icons8.com/color/48/opencv.png" title="OpenCV"/>
+<!-- Programming & AI/ML -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-<!-- Data / Viz -->
-  <img src="https://img.icons8.com/ios-filled/50/pandas.png" title="Pandas"/>
-  <img src="https://img.icons8.com/fluency/48/numpy.png" title="NumPy"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau"/>
-  <img src="https://img.icons8.com/color/48/matplotlib.png" title="Matplotlib"/>
-  <img src="https://img.icons8.com/ios/50/seaborn.png" title="Seaborn"/>
+<!-- Data & Big Data -->
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" />
 
-<!-- Big Data -->
-  <img src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" title="Hadoop"/>
-  <img src="https://img.icons8.com/color/48/apache-spark.png" title="Apache Spark"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
+<!-- Visualization -->
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-005395?style=for-the-badge&logo=tableau&logoColor=white" />
 
-<!-- Cloud / DevOps -->
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS"/>
-  <img src="https://img.icons8.com/color/48/google-cloud.png" title="GCP"/>
-  <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/github.png" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
+<!-- Cloud & DevOps -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </p>
+
 
 
 ---
