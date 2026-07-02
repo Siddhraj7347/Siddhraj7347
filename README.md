@@ -1,217 +1,134 @@
-<!-- ========================================================= -->
-<!--                  🚀 GITHUB PROFILE README                 -->
-<!-- ========================================================= -->
+
+# 🚀 Siddhraj Gupta
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Siddhraj%20Gupta&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Data%20Scientist%20•%20Data%20Analyst%20•%20AI%20Engineer&descAlignY=58&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1026,50:2563EB,100:7C3AED&text=Siddhraj%20Gupta&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Data%20Scientist%20•%20Data%20Analyst&descAlignY=58"/>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=🚀+Building+Real+World+AI+Applications;💻+Full+Stack+Developer;📊+Data+Scientist+%26+Data+Analyst;🤖+Machine+Learning+Engineer;☁️+Cloud+%7C+Big+Data+Enthusiast;🔥+Always+Learning+New+Technologies"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=💻+Full+Stack+Developer;🤖+AI+%26+Machine+Learning;📊+Data+Science+%26+Analytics;☁️+Cloud+%26+Big+Data;🚀+Building+Real+World+Solutions"/>
 </p>
 
 <p align="center">
-
-<a href="https://github.com/siddhraj7347">
-<img src="https://img.shields.io/github/followers/siddhraj7347?style=for-the-badge&logo=github&color=181717"/>
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=siddhraj7347&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/stars/siddhraj7347?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/github/followers/siddhraj7347?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/siddhraj7347?style=for-the-badge"/>
 </p>
 
 ---
 
-# 💫 About Me
+# ⚡ SYSTEM STATUS
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-```yaml
-Name: Siddhraj Gupta
-
-Role:
-  - Full Stack Developer
-  - Data Scientist
-  - Data Analyst
-  - AI/ML Engineer
-
-Currently:
-  - Building AI Applications
-  - Creating Data Driven Solutions
-  - Exploring LLMs
-  - Learning MLOps
-
-Interests:
-  - Artificial Intelligence
-  - Data Science
-  - Cloud Computing
-  - Big Data
-  - Flutter Development
-
-Philosophy:
-  "Build. Learn. Improve. Repeat."
+```text
+┌────────────────────────────────────────────┐
+│ 👤 NAME      : Siddhraj Gupta              │
+│ 💼 ROLE      : Full Stack Developer        │
+│ 🤖 AI        : Machine Learning Engineer   │
+│ 📊 DATA      : Scientist & Analyst         │
+│ ☁️ CLOUD     : AWS • GCP • Docker          │
+│ 🚀 STATUS    : Open to Opportunities       │
+└────────────────────────────────────────────┘
 ```
 
-<br><br><br>
+<img align="right" width="340" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+
+## 💫 About Me
+
+- 🔭 Building scalable full-stack and AI applications
+- 📈 Passionate about Data Science, Analytics and LLMs
+- 🌱 Exploring MLOps, Cloud & Distributed Systems
+- ⚡ Love solving real-world problems with code
+- 🎯 Goal: Build products that create measurable impact
 
 ---
 
-# ⚡ Tech Stack
+# 🧰 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,html,css,bootstrap,react,nodejs,express,nextjs,mongodb,mysql,postgres,firebase,docker,git,github,vscode,linux,flutter,dart,figma,aws,gcp&perline=9"/>
-
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,mongodb,mysql,postgres,firebase,flutter,dart,docker,git,github,linux,aws,gcp,figma,vscode&perline=9"/>
 </p>
 
 ---
 
-# 🧠 AI • Data Science • Analytics
+# 📊 Skills Dashboard
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-darkblue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge"/>
-
-</p>
+```text
+Python            ████████████████ 95%
+Full Stack        ██████████████   90%
+Data Science      █████████████    88%
+Machine Learning  ████████████     85%
+Flutter           ███████████      82%
+Cloud             █████████        75%
+```
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Stack |
-|----------|-------------|-------|
-| 🚓 TrinitySoft.ai | Enterprise Command Center Platform | Flutter • Maps • Streaming |
-| 🤖 Resume Screening AI | NLP & Transformer Based Resume Analyzer | Python • BERT |
-| 📈 Stock Prediction | AI Stock Forecasting System | TensorFlow • LSTM |
-| 📊 Customer Churn Prediction | Predictive Analytics Dashboard | ML • Power BI |
-| 🌐 Full Stack Web Apps | Modern Responsive Applications | MERN Stack |
+| 🚀 Project | 💡 Description |
+|------------|----------------|
+| TrinitySoft.ai | Enterprise Command Center Platform |
+| Resume Screening AI | NLP + Transformer Resume Ranking |
+| Stock Prediction | LSTM + TensorFlow Forecasting |
+| Customer Churn | Predictive Analytics Dashboard |
+| MERN Applications | Modern Full Stack Web Apps |
 
 ---
 
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=siddhraj7347&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhraj7347&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=siddhraj7347&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhraj7347&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=siddhraj7347&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=siddhraj7347&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 📊 Contribution Graph
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj7347&theme=tokyo-night&hide_border=true"/>
-
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siddhraj7347&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=siddhraj7347&theme=tokyonight&no-frame=true&column=4"/>
 </p>
 
 ---
 
-# ⚡ Development Journey
+# 💻 Developer Terminal
 
-```text
-Programming
-      │
-      ▼
-Frontend Development
-      │
-      ▼
-Backend Development
-      │
-      ▼
-Full Stack Engineering
-      │
-      ▼
-Data Analytics
-      │
-      ▼
-Machine Learning
-      │
-      ▼
-Artificial Intelligence
-      │
-      ▼
-Large Language Models
+```bash
+$ whoami
+Siddhraj Gupta
+
+$ roles
+✔ Full Stack Developer
+✔ AI Engineer
+✔ Data Scientist
+✔ Data Analyst
+
+$ current_focus
+> Building intelligent software
+> Learning LLMs
+> Exploring Cloud
 ```
 
 ---
 
-# 🌎 Connect With Me
+# 🌐 Connect
 
 <p align="center">
-
-<a href="https://linkedin.com/in/siddhrajgupta">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/siddhraj7347">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://kaggle.com/siddh7347">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/siddhraj7347">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://hackerrank.com/22bcs15225">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
+<a href="https://linkedin.com/in/siddhrajgupta"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://github.com/siddhraj7347"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://kaggle.com/siddh7347"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://leetcode.com/siddhraj7347"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-# 💬 Quote
+> **"Build with curiosity. Learn relentlessly. Ship with confidence."**
 
 <p align="center">
-
-> **"Great software isn't just written—it's engineered with purpose, refined through curiosity, and driven by continuous learning."**
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B1026,50:2563EB,100:7C3AED"/>
 </p>
