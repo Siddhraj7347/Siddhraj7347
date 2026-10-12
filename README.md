@@ -1,134 +1,114 @@
-
-# 🚀 Siddhraj Gupta
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1026,50:2563EB,100:7C3AED&text=Siddhraj%20Gupta&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Data%20Scientist%20•%20Data%20Analyst&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1026,55:2563EB,100:7C3AED&text=Siddhraj%20Gupta&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=I%20build%20full-stack%20products%20and%20the%20models%20behind%20them&descSize=18&descAlignY=62" alt="Siddhraj Gupta"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=💻+Full+Stack+Developer;🤖+AI+%26+Machine+Learning;📊+Data+Science+%26+Analytics;☁️+Cloud+%26+Big+Data;🚀+Building+Real+World+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=2800&pause=1000&color=7C8CF8&center=true&vCenter=true&width=700&lines=Full+stack+developer+who+ships+end+to+end;ML+engineer+turning+data+into+decisions;Data+analyst+who+tells+the+story+behind+the+numbers" alt="Typing intro"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=siddhraj7347&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/siddhraj7347?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/siddhraj7347?style=for-the-badge"/>
+  <a href="https://linkedin.com/in/siddhrajgupta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kaggle.com/siddh7347"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+  <a href="https://leetcode.com/siddhraj7347"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-22C55E?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=siddhraj7347&style=flat-square&color=7C3AED&label=Profile%20views"/>
 </p>
 
----
+<br/>
 
-# ⚡ SYSTEM STATUS
+## About
 
-```text
-┌────────────────────────────────────────────┐
-│ 👤 NAME      : Siddhraj Gupta              │
-│ 💼 ROLE      : Full Stack Developer        │
-│ 🤖 AI        : Machine Learning Engineer   │
-│ 📊 DATA      : Scientist & Analyst         │
-│ ☁️ CLOUD     : AWS • GCP • Docker          │
-│ 🚀 STATUS    : Open to Opportunities       │
-└────────────────────────────────────────────┘
-```
+I work across the whole stack: a React or Flutter front end, an API behind it, and often a model or an analysis that makes the product smarter. I care most about work that has a measurable result, whether that is a faster workflow, a better forecast, or a clearer dashboard.
 
-<img align="right" width="340" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+**Right now**
 
-## 💫 About Me
+- Building AI features on top of LLMs, including retrieval and resume/NLP pipelines
+- Learning MLOps: model packaging, monitoring and repeatable deployment
+- Getting deeper into cloud and distributed data processing
 
-- 🔭 Building scalable full-stack and AI applications
-- 📈 Passionate about Data Science, Analytics and LLMs
-- 🌱 Exploring MLOps, Cloud & Distributed Systems
-- ⚡ Love solving real-world problems with code
-- 🎯 Goal: Build products that create measurable impact
+<br/>
 
----
+## What I work with
 
-# 🧰 Tech Stack
+<table>
+<tr>
+<td width="190"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,dart&theme=dark"/>
+</td>
+</tr>
+<tr>
+<td><b>Frontend and mobile</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,flutter&theme=dark"/>
+</td>
+</tr>
+<tr>
+<td><b>Backend and databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase&theme=dark"/>
+</td>
+</tr>
+<tr>
+<td><b>AI and machine learning</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark"/><br/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Time%20series-7C3AED?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>Data and analytics</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,jupyter&theme=dark"/><br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>Cloud and tooling</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,vscode,figma&theme=dark"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Selected work
+
+| Project | What it does | Built with |
+|---|---|---|
+| **TrinitySoft.ai** | Enterprise command center that brings an organization's tools and data into one place | React, Node.js, AI services |
+| **Resume Screening AI** | Ranks resumes against a job description using semantic matching | Python, Transformers, NLP |
+| **Stock Prediction** | Forecasts price movement from historical series | Python, TensorFlow, LSTM |
+| **Customer Churn** | Predicts which customers are likely to leave and shows why | Python, scikit-learn, dashboard |
+| **MERN applications** | Full stack web apps with auth, CRUD and deployment | MongoDB, Express, React, Node.js |
+
+More on my [repositories page](https://github.com/siddhraj7347?tab=repositories).
+
+<br/>
+
+## Activity
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,mongodb,mysql,postgres,firebase,flutter,dart,docker,git,github,linux,aws,gcp,figma,vscode&perline=9"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhraj7347&show_icons=true&hide_border=true&bg_color=0B1026&title_color=7C8CF8&icon_color=2563EB&text_color=C9D1D9&ring_color=7C3AED"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhraj7347&layout=compact&hide_border=true&bg_color=0B1026&title_color=7C8CF8&text_color=C9D1D9"/>
 </p>
 
----
-
-# 📊 Skills Dashboard
-
-```text
-Python            ████████████████ 95%
-Full Stack        ██████████████   90%
-Data Science      █████████████    88%
-Machine Learning  ████████████     85%
-Flutter           ███████████      82%
-Cloud             █████████        75%
-```
-
----
-
-# 🚀 Featured Projects
-
-| 🚀 Project | 💡 Description |
-|------------|----------------|
-| TrinitySoft.ai | Enterprise Command Center Platform |
-| Resume Screening AI | NLP + Transformer Resume Ranking |
-| Stock Prediction | LSTM + TensorFlow Forecasting |
-| Customer Churn | Predictive Analytics Dashboard |
-| MERN Applications | Modern Full Stack Web Apps |
-
----
-
-# 📈 GitHub Analytics
-
 <p align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=siddhraj7347&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhraj7347&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=siddhraj7347&hide_border=true&background=0B1026&ring=7C3AED&fire=2563EB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=siddhraj7347&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
+
+<p align="center"><i>Build with curiosity. Learn relentlessly. Ship with confidence.</i></p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj7347&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=siddhraj7347&theme=tokyonight&no-frame=true&column=4"/>
-</p>
-
----
-
-# 💻 Developer Terminal
-
-```bash
-$ whoami
-Siddhraj Gupta
-
-$ roles
-✔ Full Stack Developer
-✔ AI Engineer
-✔ Data Scientist
-✔ Data Analyst
-
-$ current_focus
-> Building intelligent software
-> Learning LLMs
-> Exploring Cloud
-```
-
----
-
-# 🌐 Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/siddhrajgupta"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/siddhraj7347"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://kaggle.com/siddh7347"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://leetcode.com/siddhraj7347"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
-
----
-
-> **"Build with curiosity. Learn relentlessly. Ship with confidence."**
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B1026,50:2563EB,100:7C3AED"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0B1026,55:2563EB,100:7C3AED"/>
 </p>
