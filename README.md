@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1026,55:2563EB,100:7C3AED&text=Siddhraj%20Gupta&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=I%20build%20full-stack%20products%20and%20the%20models%20behind%20them&descSize=18&descAlignY=62" alt="Siddhraj Gupta"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1026,55:2563EB,100:7C3AED&text=Siddhraj%20Gupta&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=I%20build%20real-time%20full-stack%20systems%20and%20the%20models%20behind%20them&descSize=18&descAlignY=62" alt="Siddhraj Gupta"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=2800&pause=1000&color=7C8CF8&center=true&vCenter=true&width=700&lines=Full+stack+developer+who+ships+end+to+end;ML+engineer+turning+data+into+decisions;Data+analyst+who+tells+the+story+behind+the+numbers" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=2800&pause=1000&color=7C8CF8&center=true&vCenter=true&width=760&lines=Full+stack+developer+who+ships+end+to+end;Real-time+systems+for+highways+and+toll+plazas;ANPR%2C+radar+and+ADAS+dashboards+in+production;ML+background+that+turns+data+into+decisions" alt="Typing intro"/>
 </p>
 
 <p align="center">
@@ -18,13 +18,14 @@
 
 ## About
 
-I work across the whole stack: a React or Flutter front end, an API behind it, and often a model or an analysis that makes the product smarter. I care most about work that has a measurable result, whether that is a faster workflow, a better forecast, or a clearer dashboard.
+I work across the whole stack: a web or mobile front end, an API and real-time layer behind it, and often a model that makes the product smarter. Most of my current work is software for highway and toll-plaza operations, including live video, radar data, number plate recognition and driver assistance. I care most about systems that are accurate, fast and keep running in the field.
 
 **Right now**
 
+- Full Stack Development Intern at Rocket Science Technologies, working on highway surveillance and toll-plaza systems
+- Building a new ANPR dashboard that tracks number plates of moving vehicles, using models trained on live vehicle data plus custom models
 - Building AI features on top of LLMs, including retrieval and resume/NLP pipelines
-- Learning MLOps: model packaging, monitoring and repeatable deployment
-- Getting deeper into cloud and distributed data processing
+- Learning MLOps (model packaging, monitoring, repeatable deployment) and getting deeper into cloud and distributed data processing
 
 <br/>
 
@@ -34,7 +35,7 @@ I work across the whole stack: a React or Flutter front end, an API behind it, a
 <tr>
 <td width="190"><b>Languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,dart&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,java,dart&theme=dark"/>
 </td>
 </tr>
 <tr>
@@ -46,13 +47,27 @@ I work across the whole stack: a React or Flutter front end, an API behind it, a
 <tr>
 <td><b>Backend and databases</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite,mongodb,mysql,firebase&theme=dark"/><br/>
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Real-time and streaming</b></td>
+<td>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaMTX-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/RTSP-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Live%20dashboards-7C3AED?style=flat-square"/>
 </td>
 </tr>
 <tr>
 <td><b>AI and machine learning</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark"/><br/>
+<img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/ANPR%20%2F%20OCR-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square"/>
@@ -73,7 +88,7 @@ I work across the whole stack: a React or Flutter front end, an API behind it, a
 <tr>
 <td><b>Cloud and tooling</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,postman,vscode,figma&theme=dark"/>
 </td>
 </tr>
 </table>
@@ -84,13 +99,18 @@ I work across the whole stack: a React or Flutter front end, an API behind it, a
 
 | Project | What it does | Built with |
 |---|---|---|
+| **ANPR Dashboard** (in progress) | Tracks number plates of moving vehicles on live feeds with a focus on accuracy | Computer vision, custom and trained models, live dashboard |
+| **Radar Live Dashboard** | Collects radar data and shows live vehicle detections to operators | Node.js, TypeScript, WebSocket |
+| **ADAS System Web Platform** | Web interface for monitoring and managing a highway driver assistance system | TypeScript, Node.js, REST APIs, PostgreSQL |
+| **ADAS Application** | Application side of the driver assistance system for highway road safety | WebSocket, WebRTC, REST APIs |
+| **Surveillance Mobile App** | Gives field teams live access to surveillance feeds and alerts | WebRTC, MediaMTX, REST APIs |
 | **TrinitySoft.ai** | Enterprise command center that brings an organization's tools and data into one place | React, Node.js, AI services |
 | **Resume Screening AI** | Ranks resumes against a job description using semantic matching | Python, Transformers, NLP |
 | **Stock Prediction** | Forecasts price movement from historical series | Python, TensorFlow, LSTM |
 | **Customer Churn** | Predicts which customers are likely to leave and shows why | Python, scikit-learn, dashboard |
 | **MERN applications** | Full stack web apps with auth, CRUD and deployment | MongoDB, Express, React, Node.js |
 
-More on my [repositories page](https://github.com/siddhraj7347?tab=repositories).
+Client project details are limited by confidentiality. More of my public work is on my [repositories page](https://github.com/siddhraj7347?tab=repositories).
 
 <br/>
 
